@@ -5,6 +5,6 @@
 	<project name="AMD-Grifon/android_vendor_samsung_wave" path="vendor/samsung/wave" remote="github" revision="android-5.0" />
 	<project name="AMD-Grifon/android_kernel_samsung_aries" path="kernel/samsung/aries" remote="github" revision="android-5.1" />
 	<project name="AMD-Grifon/android_external_libmocha-ipc" path="external/libmocha-ipc" remote="github" revision="android-4.4" />
-	<project name="AMD-Grifon/android_frameworks_base" path="frameworks/base" remote="github" revision="apps2sd" />
+	<project name="AMD-Grifon/android_frameworks_base" path="frameworks/base" remote="github" revision="android-5.1" />
 	<project name="AMD-Grifon/android_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="android-5.1" />
 </manifest>
